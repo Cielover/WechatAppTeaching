@@ -1,0 +1,12 @@
+<!--pages/bottom_menu/bottom_menu.wxml-->
+<view class="bottomrow">
+  <view class="bottomtab" bindtap="first_select">
+    <text class="bottomtabText">首页</text>
+  </view>
+  <view class="centerimg " bindtap="second_select">
+  <image class='bottomtabImg' src='/images/add.png'></image>
+  </view>
+  <view class="bottomtab " bindtap="third_select">
+    <text class="bottomtabText">个人中心</text>
+  </view>
+</view>

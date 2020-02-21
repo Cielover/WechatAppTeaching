@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/load/load",
+    "pages/mine/mine",
+    "pages/square/square",
+    "pages/bottom_menu/bottom_menu",
+    "pages/commit/commit",
+    "pages/login/login",
+    "pages/enroll/enroll", 
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
